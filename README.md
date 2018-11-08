@@ -1,1 +1,0 @@
-# Award-show-for-sneakers-project
