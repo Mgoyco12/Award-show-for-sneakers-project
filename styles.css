@@ -1,0 +1,36 @@
+img{
+    width:300px;
+}
+.adidas{
+    font-family: 'Poor Story', cursive;
+     color:lightgreen;
+}
+.jordans{
+    font-family: 'Indie Flower', cursive;
+    color:yellow;
+}
+.nikes{
+    font-family: 'Abril Fatface', cursive;
+    color:pink;
+}
+.off-white{
+    font-family: 'Permanent Marker', cursive;
+    color:lightblue;
+    
+}
+body{
+    background-color:gray;
+}
+ p{
+     font-size:20px;
+     color:white;
+     font-family: 'Orbitron', sans-serif;
+     border:10px dotted blue;
+
+ }
+ h1{
+     text-align:center;
+     color:orange;
+     border:20px groove red;
+     padding:20px;
+ }
